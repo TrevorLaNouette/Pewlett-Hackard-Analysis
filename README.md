@@ -26,15 +26,21 @@ Results:
 Provide a bulleted list with four major points from the two analysis deliverables.
 ### Deliverable 1
 ### Unique Titles
-(Insert Unique Titles)
+
+<img width="533" alt="unique_titles" src="https://user-images.githubusercontent.com/82718969/127747334-a67043e2-9c55-4d81-a301-ad954a1964e4.png">
+
 ### Retiring Titles
-(Insert retiring titles)
+
+<img width="489" alt="retiring_titles" src="https://user-images.githubusercontent.com/82718969/127747324-3329502c-a7d1-4133-9bcf-291ba29b9079.png">
+
 - From unique titles there are 90398 employees that are of retirement age that will most likely need to be replaced in the next few years
 - From retiring titles we can see that the majority of staff are in senor positions. 
 - From retiting title we can see that only 36.21% of retirment eligible employes are in non-senior level positions
 ### Deliverable 2
 ### Mentorship Eligibility
-(Insert Mentorship Eligibility)
+
+<img width="610" alt="Mentorship_eligibility" src="https://user-images.githubusercontent.com/82718969/127747351-85113540-a7a0-47cc-8dd5-7c29725d383d.png">
+
 - From mentorship Eligibilty we see that there are 1549 employees who are eligible for mentorship.
 
 
@@ -45,7 +51,8 @@ At the time the provided csv's were created there were 90398 employees eligible 
 
 Question 2: Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-Insert (mentorship_titles)
+<img width="211" alt="Mentorship_titles" src="https://user-images.githubusercontent.com/82718969/127747361-2fe9ef41-5577-4cd8-ac9d-41716d26104e.png">
+
 As shown in the table above there are well more than enough retirement ready employees to mentor the upcoming group of staff. Due to the high number of staff who are retirement eligibile it is suggested that the company look to higher outside staff as there will be an large number of senior-level positions that will need to be filled and there will not be enough promotable current staff to fit those roles.
 
 The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)

@@ -22,9 +22,9 @@ We were asked to create 4 separate tables to analize this information from 6 CSV
 - retiring titles- Used to see all employees who are retirement eligible by title to see what will potentially need to be replaced by title.
 - mentorship eligibility- Used to find employees would would be eligile to mentor born in 1965
 
-Results: 
-Provide a bulleted list with four major points from the two analysis deliverables.
-### Deliverable 1
+## Results: 
+
+### From Deliverable 1
 ### Unique Titles
 
 <img width="533" alt="unique_titles" src="https://user-images.githubusercontent.com/82718969/127747334-a67043e2-9c55-4d81-a301-ad954a1964e4.png">
@@ -36,7 +36,7 @@ Provide a bulleted list with four major points from the two analysis deliverable
 - From unique titles there are 90398 employees that are of retirement age that will most likely need to be replaced in the next few years
 - From retiring titles we can see that the majority of staff are in senor positions. 
 - From retiting title we can see that only 36.21% of retirment eligible employes are in non-senior level positions
-### Deliverable 2
+### From Deliverable 2
 ### Mentorship Eligibility
 
 <img width="610" alt="Mentorship_eligibility" src="https://user-images.githubusercontent.com/82718969/127747351-85113540-a7a0-47cc-8dd5-7c29725d383d.png">
@@ -44,7 +44,7 @@ Provide a bulleted list with four major points from the two analysis deliverable
 - From mentorship Eligibilty we see that there are 1549 employees who are eligible for mentorship.
 
 
-Summary:Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+## Summary:
 Question 1: How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
 At the time the provided csv's were created there were 90398 employees eligible for retirement. This information is static to that time period. All data and queries should be run on dynamic data that takes into account new hire's through the time period as well as current dates to signify which employess are 65+ and are within 5 years of the current date to prepare employees and the company for retirement.

@@ -20,7 +20,7 @@ We were asked to create 4 separate tables to analize this information from 6 CSV
 - retirement titles - Used to organize all employees and their titles who are in retirement age BETWEEN '1-1-1952' AND '12-31-1955'. This inculded duplicate names because of multiple roles that employees held durring their time with the company.
 - unique titles - Used to see the current role that employment eligible employees most recently held inorder to remove duplicates and see which roles needed to be replaced in the near future.
 - retiring titles- Used to see all employees who are retirement eligible by title to see what will potentially need to be replaced by title.
-- mentorship eligibility- Used to find employees would would be eligile to mentor born in 1965
+- mentorship eligibility- Used to find employees would would be eligile to mentor born in 1965.
 
 ## Results: 
 
@@ -33,9 +33,9 @@ We were asked to create 4 separate tables to analize this information from 6 CSV
 
 <img width="489" alt="retiring_titles" src="https://user-images.githubusercontent.com/82718969/127747324-3329502c-a7d1-4133-9bcf-291ba29b9079.png">
 
-- From unique titles there are 90398 employees that are of retirement age that will most likely need to be replaced in the next few years
+- From unique titles there are 90398 employees that are of retirement age that will most likely need to be replaced in the next few years.
 - From retiring titles we can see that the majority of staff are in senor positions. 
-- From retiting title we can see that only 36.21% of retirment eligible employes are in non-senior level positions
+- From retiting title we can see that only 36.21% of retirment eligible employes are in non-senior level positions.
 ### From Deliverable 2
 ### Mentorship Eligibility
 

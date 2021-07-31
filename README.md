@@ -5,7 +5,7 @@
 
 ### The purpose:
 
-Our manager has ask us to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. He would then like us to summarizes our analysis to help prepare for the “silver tsunami” as many current employees reach retirement age.
+Our manager has asked us to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. He would then like us to summarizes our analysis to help prepare for the “silver tsunami” as many current employees reach retirement age.
 We were asked to create 4 separate tables to analize this information from 6 CSV's provided by the company.
 
 ### CSV's Provided
@@ -54,5 +54,3 @@ Question 2: Are there enough qualified, retirement-ready employees in the depart
 <img width="211" alt="Mentorship_titles" src="https://user-images.githubusercontent.com/82718969/127747361-2fe9ef41-5577-4cd8-ac9d-41716d26104e.png">
 
 As shown in the table above there are well more than enough retirement ready employees to mentor the upcoming group of staff. Due to the high number of staff who are retirement eligibile it is suggested that the company look to higher outside staff as there will be an large number of senior-level positions that will need to be filled and there will not be enough promotable current staff to fit those roles.
-
-The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
